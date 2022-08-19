@@ -1,4 +1,4 @@
-![Banner](https://i.ibb.co/6JdX7Sp/banner-Github.png)
+![Banner](https://github.com/twiar/twiar/blob/main/bannerGithub.gif)
 
 <table border="0">
  <tr>
